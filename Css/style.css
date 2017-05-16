@@ -3,36 +3,39 @@
 
 ul {
 	list-style-type: none;
-	position: fixed;
+	
+	
 }
 
 li {
 	float: left;
 	margin-left: 60px;
-	font-size: 40px;
+	font-size: 35px;
 	font-weight:550;
 	line-height: 25px;
-	color: #133A64;
 	font-family: Helvetica, Arial, sans-serif;
+	padding-bottom: 10px;
+
 
 
 }
 
 nav{
-	background-color: rgba(0, 100, 255, .2);
-	width: 100%;
+	background-color: black;
+	width: 98%;
 	height: 50px;
 	border-style: solid;
-	border-color: #133A64;
+	border-color: #50A8FF;
 	padding-bottom: 7px;
 	position: fixed;
+	
 	
 
 }
 
 a:link {
 	text-decoration: none;
-	color: #133A64;
+	color: #50A8FF;
 
 }
 
@@ -48,3 +51,31 @@ a:active {
 	
 
 } 
+
+.heading {
+	width: 100%;
+	border-style: solid;
+	border-color:#50A8FF;
+	
+	}
+	
+h1 {
+	color: #50A8FF;
+	text-align: center;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 17px;
+}
+
+div{
+	background-color: black;
+	border-color: #50A8FF;
+	border-style: solid;
+	border-width: 100%;
+	}
+
+
+
+
+
+
