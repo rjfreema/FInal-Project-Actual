@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ul {
+	list-style-type: none;
+	position: fixed;
+}
+
+li {
+	float: left;
+	margin-left: 60px;
+	font-size: 40px;
+	font-weight:550;
+	line-height: 25px;
+	color: #133A64;
+	font-family: Helvetica, Arial, sans-serif;
+
+
+}
+
+nav{
+	background-color: rgba(0, 100, 255, .2);
+	width: 100%;
+	height: 50px;
+	border-style: solid;
+	border-color: #133A64;
+	padding-bottom: 7px;
+	position: fixed;
+	
+
+}
+
+a:link {
+	text-decoration: none;
+	color: #133A64;
+
+}
+
+a:visited{
+	color: #556A81;
+	}
+a:hover {
+	font-weight: 700;
+}
+
+a:active {
+	color: #679AFF;
+	
+
+} 
