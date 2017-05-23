@@ -22,7 +22,7 @@ li {
 
 nav{
 	background-color: black;
-	width: 98%;
+	width: 97.3%;
 	height: 50px;
 	border-style: solid;
 	border-color: #50A8FF;
@@ -53,7 +53,7 @@ a:active {
 } 
 
 .heading {
-	width: 100%;
+	width: 99.5%;
 	border-style: solid;
 	border-color:#50A8FF;
 	
@@ -65,6 +65,8 @@ h1 {
 	font-size: 40px;
 	font-weight: 300;
 	line-height: 18px;
+	width: 100%;
+	border-width: 6px;
 }
 
 div{
@@ -72,8 +74,18 @@ div{
 	border-color: #50A8FF;
 	border-style: solid;
 	border-width: 100%;
+	margin-top: 5px;
+	border-width:thick;
 	}
-
+.experience {
+	width: 32.57%;
+	display: inline;
+	border-color: #50A8FF;
+	border-style: solid;
+	border-width: 100%;
+	border-collapse: collapse;
+}
+	
 
 
 

@@ -1,0 +1,29 @@
+commit cda4cb62129a96e25fb63cc4d7cf26c210253284
+Author: Ryan Freeman <ryanfreeman6464@gmail.com>
+Date:   Tue May 16 14:57:53 2017 -0700
+
+    final changes for the day
+
+commit 07d09855f11a4628f88d953737c03bed44131969
+Author: Ryan Freeman <ryanfreeman6464@gmail.com>
+Date:   Tue May 16 14:55:46 2017 -0700
+
+    added images
+
+commit d87672367b1f3422042743d1915f27c30d19c1b6
+Author: Ryan Freeman <ryanfreeman6464@gmail.com>
+Date:   Tue May 16 14:53:26 2017 -0700
+
+    added borders and backgroun
+
+commit bc2cdb5b02d5f513af971dacf5f85cf3cdf1fa24
+Author: Ryan Freeman <ryanfreeman6464@gmail.com>
+Date:   Tue May 16 14:02:43 2017 -0700
+
+    Added Nav Bar
+
+commit a3c5bb7b321cabe2b3de2c144e8f0b94ebde5c39
+Author: Ryan Freeman <ryanfreeman6464@gmail.com>
+Date:   Tue May 16 13:11:55 2017 -0700
+
+    first commit
