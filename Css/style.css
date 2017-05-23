@@ -1,13 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
 
-ul {
+nav ul {
 	list-style-type: none;
 	
 	
 }
 
-li {
+nav li {
 	float: left;
 	margin-left: 60px;
 	font-size: 35px;
@@ -69,7 +69,7 @@ h1 {
 	border-width: 6px;
 }
 
-div{
+.border{
 	background-color: black;
 	border-color: #50A8FF;
 	border-style: solid;
@@ -77,17 +77,82 @@ div{
 	margin-top: 5px;
 	border-width:thick;
 	}
-.experience {
-	width: 32.57%;
+.experience img {
+	width: 32.8%;
 	display: inline;
 	border-color: #50A8FF;
 	border-style: solid;
-	border-width: 100%;
-	border-collapse: collapse;
+	margin-right: -5px;
+	margin-top: 10px;
+	margin-bottom: -5px;
+	
 }
 	
+h2 {
+	color: white;
+	text-align: left;
+	font-size: 30px;
+	font-weight: 200%;
+	line-height: 18px;
+	width: 100%;
+	border-width: 6px;
+}
+
+h3 {
+	color: #50A8FF;
+	text-align: center;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 18px;
+	width: 100%;
+	border-width: 6px;
+}
+.playing {
+float: left;
+height: 200px;
+width: 47.5%;
+background-color: black;
+border-color: #50A8FF;
+border-style: solid;
+padding: 10px;
+margin-top: 5px;
+
+}
+
+.playing li{
+	color: white;
+	font-size: 17px;
+	line-height: 30px;
+	
+}
+
+	
+
+.play {
+	margin-left: 5 px;
+}
 
 
+.Experiences {
+	width: 50%;
+	float: left;
+	
+	
+}
+.clear {
+clear: both;
 
+}
 
-
+h4 {
+	color: #50A8FF;
+	font-size:50px;
+	background-color: black;
+	border-color: #50A8FF;
+    border-style: solid;
+    text-align: center;
+	padding: 10px 0; 
+	margin-top: 5px;
+	margin-bottom: 0px;
+	
+}
