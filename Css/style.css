@@ -157,3 +157,25 @@ h4 {
 	margin-bottom: 0px;
 	
 }
+
+h5 {
+	color: #50A8FF;
+	font-size:50px;
+	background-color: black;
+    text-align: center;
+	margin-bottom: 0px;
+	
+}
+
+
+.teambonding img {
+	width: 33%;
+}
+
+.teambonding {
+background-color: black;
+border-color: #50A8FF;
+border-style: solid;
+margin-top: 5px;
+	
+}
