@@ -75,7 +75,7 @@ h1 {
 	border-style: solid;
 	border-width: 100%;
 	margin-top: 5px;
-	border-width:thick;
+	border-width: thick;
 	}
 .experience img {
 	width: 32.65%;
@@ -171,12 +171,11 @@ h5 {
 }
 
 .img {
-width: 1000px;
 display: inline;
 
 }
 .img img {
-	width: 25%;
+	width: 28.4%;
 	border-color: #50A8FF;
     border-style: solid;
 	border-width: thick;
@@ -188,17 +187,13 @@ display: inline;
 background-color: black;
 border-color: #50A8FF;
 border-style: solid;
-margin-top: 5px;
+
 	
 }
 
-.img p {
-color: white;
-text-align: center;
-width: 28.5%;
-}
 
-table {
-	
-	
+
+td {
+	color: white;
+	text-align: center;
 }
