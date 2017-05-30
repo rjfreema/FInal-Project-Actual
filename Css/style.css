@@ -171,11 +171,12 @@ h5 {
 }
 
 .img {
+width: 1000px;
+display: inline;
 
-	
 }
 .img img {
-	width: 28.5%;
+	width: 25%;
 	border-color: #50A8FF;
     border-style: solid;
 	border-width: thick;
@@ -191,8 +192,13 @@ margin-top: 5px;
 	
 }
 
-p {
-color: red;
+.img p {
+color: white;
 text-align: center;
+width: 28.5%;
+}
+
+table {
+	
 	
 }
