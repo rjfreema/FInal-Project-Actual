@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/*Nav Bar Styling Start*/
 nav ul {
 	list-style-type: none;
 	
@@ -53,8 +54,10 @@ a:active {
 	color: #679AFF;
 	
 
-} 
+}
+/*Nav Bar Styling End*/ 
 
+/*Home page Styling Start*/
 .heading {
 	width: 99.5%;
 	border-style: solid;
@@ -68,12 +71,20 @@ h1 {
 	font-size: 40px;
 	font-weight: 300;
 	line-height: 18px;
-	width: 100%;
-	border-width: 6px;
+	width: 99.5%;
+	border-width: medium;
+	border-width-top: 0;
+	background-color: black;
+	border-style: solid;
+	border-color: #50A8FF;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: -4px;
 }
 
+/*Home Page Styling End*/
 
-
+/*Experience Page Styling Start*/
 .experience img {
 	width: 32.9%;
 	display: inline;
@@ -137,10 +148,15 @@ margin-top: 5px;
 	
 	
 }
+
+
 .clear {
 clear: both;
 
 }
+
+
+
 
 h4 {
 	color: #50A8FF;
@@ -150,11 +166,14 @@ h4 {
     border-style: solid;
     text-align: center;
 	padding: 10px 0; 
-	margin-top: 5px;
+	margin-top: 10px;
 	margin-bottom: 0px;
 	
 }
 
+/*Experience Page Styling End*/
+
+/*Team bonding and Trophy Cabinet styling Start*/
 h5 {
 	color: #50A8FF;
 	font-size:50px;
@@ -162,7 +181,7 @@ h5 {
     text-align: center;
 	border-color: #50A8FF;
 	border-style: solid;
-	margon-bottom: 0;
+	
 	
 }
 
@@ -187,7 +206,7 @@ display: inline;
 background-color: black;
 border-color: #50A8FF;
 border-style: solid;
-margin-top: -70px;
+margin-top: -78px;
 
 	
 }
@@ -202,10 +221,10 @@ td {
 
 .cabinet {
 width: 100%;
-margin-top: -70px;
+margin-top: -78px;
 	
 }
+/*Team Bonding and Trophy Cabinet Styling End*/
 
 
-
-/*Photos from Willarnette Valley Awards, Pinterest, Rising Stars*/
+/*Trophy Photos from Willarnette Valley Awards, Pinterest, Rising Stars, Blue Ribbon Awards*/
