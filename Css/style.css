@@ -22,16 +22,19 @@ nav li {
 
 nav{
 	background-color: black;
-	width: 97.3%;
+	width: 98.26%;
 	height: 50px;
 	border-style: solid;
 	border-color: #50A8FF;
 	padding-bottom: 7px;
 	position: fixed;
+	top: 0;
+	margin-top: 0px;
+	margin-bottom: 30px;
 	
-	
-
 }
+
+
 
 a:link {
 	text-decoration: none;
@@ -69,23 +72,17 @@ h1 {
 	border-width: 6px;
 }
 
-.border{
-	background-color: black;
-	border-color: #50A8FF;
-	border-style: solid;
-	border-width: 100%;
-	margin-top: 5px;
-	border-width: thick;
-	}
+
+
 .experience img {
-	width: 32.65%;
+	width: 32.9%;
 	display: inline;
 	border-color: #50A8FF;
 	border-style: solid;
 	margin-right: -5px;
 	margin-top: 10px;
 	margin-bottom: -5px;
-	border-width:thick;
+	border-width:100%;
 	
 }
 	
@@ -111,7 +108,7 @@ h3 {
 .playing {
 float: left;
 height: 200px;
-width: 47.8%;
+width: 47.95%;
 background-color: black;
 border-color: #50A8FF;
 border-style: solid;
@@ -165,9 +162,12 @@ h5 {
     text-align: center;
 	border-color: #50A8FF;
 	border-style: solid;
-	margin-top: 65px;
 	margon-bottom: 0;
 	
+}
+
+.trophy h5 {
+margin-top: 70px;	
 }
 
 .img {
@@ -187,7 +187,7 @@ display: inline;
 background-color: black;
 border-color: #50A8FF;
 border-style: solid;
-margin-top: -60px;
+margin-top: -70px;
 
 	
 }
@@ -202,6 +202,10 @@ td {
 
 .cabinet {
 width: 100%;
-margin-top: -45px;
+margin-top: -70px;
 	
 }
+
+
+
+/*Photos from Willarnette Valley Awards, Pinterest, Rising Stars*/
