@@ -174,8 +174,8 @@ h5 {
 display: inline;
 
 }
-.img img {
-	width: 28.4%;
+.teambonding img {
+	width: 29.2%;
 	border-color: #50A8FF;
     border-style: solid;
 	border-width: thick;
@@ -187,6 +187,7 @@ display: inline;
 background-color: black;
 border-color: #50A8FF;
 border-style: solid;
+margin-top: -60px;
 
 	
 }
